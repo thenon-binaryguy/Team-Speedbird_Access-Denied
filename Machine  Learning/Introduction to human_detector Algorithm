@@ -1,0 +1,10 @@
+This is an intro as to how the machine learning is used in this project
+
+The human recognition model uses a previously trained tensorflow model .
+The architecture of the model is based on the Faster RCNN algorithm, which is an efficient and popular object detection algorithm which uses deep convolutional networks.
+The Tensorflow model can also detect upto 90 objects at a time.
+
+Instructions to run 
+1. Download the human_detecor.py , the test data image and the rcnb module
+2. Also download the trianed model from the link : https://drive.google.com/file/d/1-q-6tTYgT8ZWrT0zx-ClM7jbnyYfCP7Z/view?usp=sharing
+3.store under the same file and run the python file
