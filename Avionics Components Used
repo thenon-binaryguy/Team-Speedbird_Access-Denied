@@ -1,0 +1,42 @@
+Battery – 22000 mAh ,6S
+
+Motor-  260 kv * 4 for the rotors uesd for vertical takeoff and landing
+    105 kv for the main motor used to propel the plane
+
+Propellers – (21 inch diameter , Pitch – 3 )  *4  rotors uesd for vertical takeoff and landing
+
+Propellor - 27 inch diameter , Pitch – 8.2  for the main motor used to propel the plane
+
+60 A standard ESC  4 in 1 BLDC standard esc
+
+90 A Standard ESC for the main motor used to propel the plane
+
+Servo – micro servo , 1.6kg/cm torque at 4.8v
+     2 Servos used for ailerons , 1 for rudder and 1 for elevator 
+     
+Servo for the payload system 
+
+Arduino module
+
+SD card reader module
+
+Pixhawk 2.4.8 
+
+Telemetry module , frequency of operation – 915 Ghz
+(Telemetry range – 5 km)
+
+Camera
+Model: Go pro 9  
+
+Video Receiver
+Transmission Frequency -1.5 Ghz
+Transmission Range- 3 km 
+
+Jetson Nano As the In-Flight Computer 
+
+GPS  Module
+Model - Ublox NEO 7M
+Navigation Update Rate - 5Hz
+ 
+Speaker 
+Loudness – 80 db
