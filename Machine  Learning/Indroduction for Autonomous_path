@@ -1,0 +1,6 @@
+To run this file , mission planner software is required
+Also python libraries such as mavlproxy , dronekit-stl , dronekit are also requried 
+
+This file created is just a protoype to what actual file loaded to the aircraft can be 
+This file can only run with the availability of sufficient hardware
+Note- due to time constarints servo fucntion is undefined 
